@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StickHeaderExample</string>
+    <string name="section_format">This is page: %d</string>
+</resources>
